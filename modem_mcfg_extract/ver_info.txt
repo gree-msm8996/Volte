@@ -1,0 +1,25 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.8996.2.7.1-00145-00355-2", 
+        "apps": "LA.HB.1.3.1.c1-12700-8x96.0-1", 
+        "boot": "BOOT.XF.1.0-00303-M8996LZB-1", 
+        "btfm": "BTFM.RM.4.0-00122-QCABTFMSWPZ-1", 
+        "common": "MSM8996.LA.1.0.1.c3-01031-STD.PROD-2.83425.1", 
+        "cpev2": "CPE.TSF.1.0-00035-W9335AAAAAAAZQ-1", 
+        "glue": "GLUE.MSM8996.1.0-00263-NOOP_TEST-1", 
+        "modem": "MPSS.TH.2.0.c1.9-00050-M8996FAAAANAZM-1.83425.1", 
+        "rpm": "RPM.BF.1.6-00151-M8996AAAAANAZR-4", 
+        "slpi": "SLPI.HB.1.0.c3-00018-M8996AZL-1", 
+        "tz": "TZ.BF.4.0.1-00269-M8996AAAAANAZT-1", 
+        "video": "VIDEO.VE.4.0-00119-PROD-1", 
+        "wapi": "WLAN.ADDON_RM.3.0-00013-CNSS_RMZ_WAPI-1", 
+        "wigig": "WIGIG.SPR.2.1-00032-WIGIGSWZ-1", 
+        "wlan": "WLAN.RM.4.1.c2-00042-QCARMSWPZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "MSM8996.LA.1.0.1.c3-01031-STD.PROD-2.83425.1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2018-08-24 16:47:28"
+    }, 
+    "Version": "1.0"
+}
